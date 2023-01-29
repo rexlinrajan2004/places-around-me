@@ -184,6 +184,8 @@ Simple and relax with play area.
 ![rex3](https://user-images.githubusercontent.com/119406566/215347787-874ca062-d9ee-4504-ad84-7def8c1a1622.png)
 ![rex4](https://user-images.githubusercontent.com/119406566/215347834-3a69838f-ea45-4feb-aa4b-6dbefb5afc11.png)
 ![rex4](https://user-images.githubusercontent.com/119406566/215347965-adcb4d02-5339-4af2-8e87-007291c9cef3.png)
+![rex7](https://user-images.githubusercontent.com/119406566/215348118-3a57f16f-3bd1-4469-a556-3c91adea7256.png)
+
 
 
 
