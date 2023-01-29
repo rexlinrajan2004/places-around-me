@@ -14,6 +14,7 @@ Step 4:
 Run the Django server and execute the HTML files.
 
 ## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -175,7 +176,7 @@ Simple and relax with play area.
 </p>
 </body>
 </html>
-
+```
 
 ## Output:
 ![WhatsApp Image 2023-01-29 at 11 42 58 PM (1)](https://user-images.githubusercontent.com/119406566/215347559-e2a73dca-78c3-447e-bc12-61fcbd7fb2e6.jpeg)
