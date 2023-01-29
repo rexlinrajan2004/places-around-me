@@ -69,8 +69,6 @@ Its a huge ground and a clean and green one.
 </html>
 theatre.html
 <!DOCTYPE html>
-20/01/2023, 10:37 sakthipriyadhanusu/NearMe
-https://github.com/sakthipriyadhanusu/NearMe 3/8
 <html lang="en">
 <head>
 <title>RTO Office</title>
@@ -129,8 +127,6 @@ jhss.html
 <body bgcolor="lime">
 <h1 align="center">
 <font color="red"><b>Neyveli Township</b></font>
-20/01/2023, 10:37 sakthipriyadhanusu/NearMe
-https://github.com/sakthipriyadhanusu/NearMe 4/8
 </h1>
 <h3 align="center">
 <font color="blue"><b>Jawahar Higher Secondary School,CBSE</b></font>
