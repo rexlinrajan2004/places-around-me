@@ -183,7 +183,8 @@ Simple and relax with play area.
 ![rex2](https://user-images.githubusercontent.com/119406566/215347750-f86c41da-f075-4d16-8374-12dc01c8cc26.png)
 ![rex3](https://user-images.githubusercontent.com/119406566/215347787-874ca062-d9ee-4504-ad84-7def8c1a1622.png)
 ![rex4](https://user-images.githubusercontent.com/119406566/215347834-3a69838f-ea45-4feb-aa4b-6dbefb5afc11.png)
-![rex4](https://user-images.githubusercontent.com/119406566/215347886-80f7fb74-cd94-4188-9d2e-d5b6c7209838.png)
+![rex4](https://user-images.githubusercontent.com/119406566/215347965-adcb4d02-5339-4af2-8e87-007291c9cef3.png)
+
 
 
 ## Result:
